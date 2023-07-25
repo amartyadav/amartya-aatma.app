@@ -1,0 +1,8 @@
+{
+  "name": "Hindu Calendar",
+  "description": "Hindu Calendar top bar app that displays the current date anccording to the Hindu Calendar. This will originally be the Vikram Samvat or Government's Saka calendar dates.",
+  "uuid": "amartya@aatma.app",
+  "shell-version": [
+    "44"
+  ]
+}
